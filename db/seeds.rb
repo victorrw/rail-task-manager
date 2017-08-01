@@ -6,4 +6,4 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Task.create(name: "Tomar Banho", difficulty: 10)
+Task.create(name: "Placeholder task", difficulty: 10)
